@@ -1,20 +1,14 @@
 # Buy Uday a Coffee
 
-<h1 align="center">Welcome to my "Buy Me a Coffee" decentralized app!<h1>
-
 # [Live link](https://buy-uday-a-coffee.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/59679281/210273356-50988d05-4e63-4acf-8f74-153c06a2f20b.png)
 
+## Users can send me messages along with a custom amount of Goerli Ether, which will be displayed for all users to see along with the date and time the message was sent.
+
 ![image](https://user-images.githubusercontent.com/59679281/210273377-6b11e55f-fffe-470b-855b-a11885c63e9d.png)
 
-
-### With this app, users can send me messages along with a custom amount of Goerli Ether, which will be displayed for all users to see.
-
-
-
-
-## My Learnings
+# My Learnings
 During the development of this project, I learned about:
 
 - Building decentralized apps using React, Hardhat, Ether.js, and Solidity
@@ -23,7 +17,7 @@ During the development of this project, I learned about:
 - Integrating front-end and back-end functionality using Ether.js, Javascript and CSS
 - Deployed my project manually using Netlify.
 
-## Tech Used
+# Tech Used
 - React
 - Hardhat
 - Ether.js
@@ -33,7 +27,7 @@ During the development of this project, I learned about:
 - Remix IDE
 - Metamask
 
-## How to Use My Project
+# How to Use My Project
 
 1. Clone the repository using git clone https://github.com/<insert_your_username_here>/buy-me-a-coffee.git
 
