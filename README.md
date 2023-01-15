@@ -2,11 +2,10 @@
 
 # [Live link](https://buy-uday-a-coffee.netlify.app/)
 
-![image](https://user-images.githubusercontent.com/59679281/210273356-50988d05-4e63-4acf-8f74-153c06a2f20b.png)
+![image](https://user-images.githubusercontent.com/59679281/212502595-d822eb89-1433-4b88-96c1-efa839a2cdd6.png)
 
 ## Users can send me messages along with a custom amount of Goerli Ether, which will be displayed for all users to see along with the date and time the message was sent.
 
-![image](https://user-images.githubusercontent.com/59679281/210273377-6b11e55f-fffe-470b-855b-a11885c63e9d.png)
 
 # My Learnings
 During the development of this project, I learned about:
